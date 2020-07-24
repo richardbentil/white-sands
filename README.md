@@ -1,8 +1,8 @@
-# A website showcasing a beach
+# White Sands
 
-This is the repository for a web page designed to showcase my basic css skills
+The design I did is to showcase my basic css skills
 
-![screenshot](https://github.com/richardbentil/white-sands/blob/master/dist/images/white-sands.png)
+![screenshot](https://github.com/richardbentil/white-sands/blob/master/images/white-sands.png)
 
 ## Instructions
 
